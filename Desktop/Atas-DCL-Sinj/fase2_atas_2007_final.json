@@ -27,15 +27,6 @@
     "pag_fim": 4
   },
   {
-    "dcl_original": "DCL_2007-05-1766368939.pdf",
-    "pag_inicio": 16,
-    "sessao_num": "003",
-    "tipo_sessao": "ORDINÁRIA",
-    "data_real": "18/04/2007",
-    "nomenclatura": "2007-04-18-1-003-303-2-AC.pdf",
-    "pag_fim": 23
-  },
-  {
     "dcl_original": "DCL_2007-08-142.pdf",
     "pag_inicio": 1,
     "sessao_num": "003",
@@ -117,15 +108,6 @@
     "pag_fim": 28
   },
   {
-    "dcl_original": "DCL_2007-11-1766369269.pdf",
-    "pag_inicio": 1,
-    "sessao_num": "008",
-    "tipo_sessao": "EXTRAORDINÁRIA",
-    "data_real": "27/09/2007",
-    "nomenclatura": "2007-09-27-2-008-208-2-AC.pdf",
-    "pag_fim": 1
-  },
-  {
     "dcl_original": "DCL_2007-08-142.pdf",
     "pag_inicio": 29,
     "sessao_num": "009",
@@ -178,15 +160,6 @@
     "data_real": "7/03/2007",
     "nomenclatura": "2007-03-07-1-SO-013-2-AC.pdf",
     "pag_fim": 5
-  },
-  {
-    "dcl_original": "DCL_2007-06-114.pdf",
-    "pag_inicio": 19,
-    "sessao_num": "013",
-    "tipo_sessao": "ORDINÁRIA",
-    "data_real": "16/05/2007",
-    "nomenclatura": "2007-05-16-1-013-413-2-AC.pdf",
-    "pag_fim": 19
   },
   {
     "dcl_original": "DCL_2007-09-1766369195.pdf",
@@ -613,15 +586,6 @@
   },
   {
     "dcl_original": "DCL_2007-07-130.pdf",
-    "pag_inicio": 1,
-    "sessao_num": "051",
-    "tipo_sessao": "ORDINÁRIA",
-    "data_real": "12/06/2007",
-    "nomenclatura": "2007-06-12-1-SO-051-2-AC.pdf",
-    "pag_fim": 4
-  },
-  {
-    "dcl_original": "DCL_2007-07-130.pdf",
     "pag_inicio": 5,
     "sessao_num": "052",
     "tipo_sessao": "ORDINÁRIA",
@@ -672,15 +636,6 @@
     "tipo_sessao": "ORDINÁRIA",
     "data_real": "27/06/2007",
     "nomenclatura": "2007-06-27-1-SO-058-2-AC.pdf",
-    "pag_fim": 12
-  },
-  {
-    "dcl_original": "DCL_2007-10-1766369225.pdf",
-    "pag_inicio": 9,
-    "sessao_num": "058",
-    "tipo_sessao": "ORDINÁRIA",
-    "data_real": "29/09/2007",
-    "nomenclatura": "2007-09-29-1-058-858-2-AC.pdf",
     "pag_fim": 12
   },
   {
@@ -765,15 +720,6 @@
     "pag_fim": 52
   },
   {
-    "dcl_original": "DCL_2007-10-1766369225.pdf",
-    "pag_inicio": 13,
-    "sessao_num": "068",
-    "tipo_sessao": "ORDINÁRIA",
-    "data_real": "2/10/2007",
-    "nomenclatura": "2007-10-02-1-068-868-2-AC.pdf",
-    "pag_fim": 19
-  },
-  {
     "dcl_original": "DCL_2007-09-167.pdf",
     "pag_inicio": 1,
     "sessao_num": "069",
@@ -853,15 +799,6 @@
     "data_real": "17/10/2007",
     "nomenclatura": "2007-10-17-1-SO-093-2-AC.pdf",
     "pag_fim": 19
-  },
-  {
-    "dcl_original": "DCL_2007-06-114.pdf",
-    "pag_inicio": 1,
-    "sessao_num": "093",
-    "tipo_sessao": "ORDINÁRIA",
-    "data_real": "10/05/2007",
-    "nomenclatura": "2007-05-10-1-093-393-2-AC.pdf",
-    "pag_fim": 11
   },
   {
     "dcl_original": "DCL_2007-01-231.pdf",
@@ -957,7 +894,7 @@
     "sessao_num": "106",
     "tipo_sessao": "ORDINÁRIA",
     "data_real": "20/11/2007",
-    "pag_inicio": 54,
+    "pag_inicio": 43,
     "pag_fim": 54,
     "dcl_original": "DCL_2007-01-235.pdf",
     "nomenclatura": "2007-11-20-1-SO-106-2-AC.pdf"
@@ -1006,5 +943,32 @@
     "data_real": "29/11/2007",
     "nomenclatura": "2007-11-29-1-SO-111-2-AC.pdf",
     "pag_fim": 34
+  },
+  {
+    "sessao_num": "84",
+    "tipo_sessao": "ORDINÁRIA",
+    "data_real": "26/09/2007",
+    "pag_inicio": 1,
+    "pag_fim": 9,
+    "dcl_original": "DCL_2007-10-1766369225.pdf",
+    "nomenclatura": "2007-09-26-1-SO-084-2-AC.pdf"
+  },
+  {
+    "sessao_num": "85",
+    "tipo_sessao": "ORDINÁRIA",
+    "data_real": "29/09/2007",
+    "pag_inicio": 9,
+    "pag_fim": 13,
+    "dcl_original": "DCL_2007-10-1766369225.pdf",
+    "nomenclatura": "2007-09-29-1-SO-085-2-AC.pdf"
+  },
+  {
+    "sessao_num": "86",
+    "tipo_sessao": "ORDINÁRIA",
+    "data_real": "02/10/2007",
+    "pag_inicio": 13,
+    "pag_fim": 20,
+    "dcl_original": "DCL_2007-10-1766369225.pdf",
+    "nomenclatura": "2007-10-02-1-SO-086-2-AC.pdf"
   }
 ]

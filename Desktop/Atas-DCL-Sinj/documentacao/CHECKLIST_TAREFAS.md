@@ -6,7 +6,7 @@
 
 ## 🔄 FASE 2: CATALOGAÇÃO E LIMPEZA DE DADOS
 
-### ✅ CONCLUÍDAS (7/12)
+### ✅ CONCLUÍDAS (8/12)
 
 - [x] **Remover Duplicatas** - 10 duplicatas removidas
   - Sessões: 003, 008, 013, 051, 058, 068, 093, 84, 85, 86
@@ -23,6 +23,13 @@
   - Sessão 001: 01/02/2007 - Pág 10-22
   - DCL: DCL_2007-03-044.pdf
   - Nomenclatura: 2007-02-01-1-SO-001-2-AC.pdf
+  - Data: 2026-01-06
+
+- [x] **Adicionar Atas 20 e 21 (Extraordinárias)** - 2 atas adicionadas
+  - Sessão 20: 27/09/2007 - Pág 1-2
+  - Sessão 21: 02/10/2007 - Pág 2-3
+  - DCL: DCL_2007-11-1766369269.pdf
+  - Nomenclaturas: 2007-09-27-2-SE-020-2-AC.pdf e 2007-10-02-2-SE-021-2-AC.pdf
   - Data: 2026-01-06
 
 - [x] **Corrigir Páginas Finais (Lote 1)** - 6 atas corrigidas
@@ -132,11 +139,11 @@
 | Fase | Status | Progresso | Tarefas |
 |------|--------|-----------|---------|
 | 1 | ✅ Concluída | 100% | 4/4 |
-| 2 | 🔄 Em Progresso | 58% | 7/12 |
+| 2 | 🔄 Em Progresso | 67% | 8/12 |
 | 3 | ⏳ Pendente | 0% | 0/3 |
 | 4 | ⏳ Pendente | 0% | 0/3 |
 | 5 | ⏳ Pendente | 0% | 0/3 |
-| **TOTAL** | **🔄 Em Progresso** | **29%** | **11/25** |
+| **TOTAL** | **🔄 Em Progresso** | **32%** | **12/25** |
 
 ---
 

@@ -70,8 +70,15 @@ Desktop/Atas-DCL-Sinj/
 - Pronto para conferência manual
 - Colunas vazias para preenchimento
 
-### v1.1 - 2026-01-06 (ATUAL) ✅
+### v1.1 - 2026-01-06 ✅
 **Arquivo:** `documentacao/relatorios_conferencia/v1.1_2026-01-06.xlsx`
+
+**Características:**
+- Total de atas: 109 (adicionada ata 001)
+- Ata 001: 01/02/2007 - Pág 10-22 - DCL_2007-03-044.pdf
+
+### v1.2 - 2026-01-06 (ATUAL) ✅
+**Arquivo:** `documentacao/relatorios_conferencia/v1.2_2026-01-06.xlsx`
 
 **Colunas:**
 1. Sessão
@@ -86,12 +93,13 @@ Desktop/Atas-DCL-Sinj/
 10. **Ações** (novo)
 
 **Características:**
-- Total de atas: 109 (adicionada ata 001)
-- Ata 001: 01/02/2007 - Pág 10-22 - DCL_2007-03-044.pdf
+- Total de atas: 111 (adicionadas atas 20 e 21 extraordinárias)
+- Ata 20: 27/09/2007 - Pág 1-2 - DCL_2007-11-1766369269.pdf
+- Ata 21: 02/10/2007 - Pág 2-3 - DCL_2007-11-1766369269.pdf
 - Pronto para conferência manual
 - Colunas vazias para preenchimento
 
-### v1.2 - 2026-01-20 (PLANEJADO)
+### v1.3 - 2026-01-27 (PLANEJADO)
 - Conferência manual completa
 - Todas as atas validadas
 - Observações registradas
@@ -99,7 +107,7 @@ Desktop/Atas-DCL-Sinj/
 - Páginas finais corrigidas
 - ~120+ atas
 
-### v1.3 - 2026-01-27 (PLANEJADO)
+### v1.4 - 2026-02-03 (PLANEJADO)
 - Todas as 143+ atas
 - Validação completa
 - Pronto para Fase 3
@@ -143,13 +151,13 @@ Desktop/Atas-DCL-Sinj/
 | Métrica | Valor |
 |---------|-------|
 | Arquivos de Documentação | 5 |
-| Relatórios Versionados | 2 (2 planejados) |
-| Total de Atas | 109 |
+| Relatórios Versionados | 3 (2 planejados) |
+| Total de Atas | 111 |
 | Atas Ordinárias | 87 |
-| Atas Extraordinárias | 20 |
-| Atas Faltando | 34 |
-| Progresso Fase 2 | 58% |
-| Tarefas Concluídas | 11/25 (44%) |
+| Atas Extraordinárias | 22 |
+| Atas Faltando | 32 |
+| Progresso Fase 2 | 67% |
+| Tarefas Concluídas | 12/25 (48%) |
 
 ---
 

@@ -50,18 +50,27 @@
 
 ---
 
-### v1.2 - 2026-01-20 (PLANEJADO)
-**Data Prevista:** 2026-01-20
-**Arquivo:** `v1.2_2026-01-20.xlsx`
-**Status:** ⏳ Pendente
+### v1.2 - 2026-01-06 (ATUAL)
+**Data de Criação:** 2026-01-06
+**Arquivo:** `v1.2_2026-01-06.xlsx`
+**Status:** ✅ Disponível
 
-#### Mudanças Planejadas
-- Conferência manual completa de todas as 109 atas
-- Marcar atas validadas (Validado: Sim/Não)
-- Registrar observações e ações necessárias
-- Adicionar atas faltantes encontradas
-- Corrigir páginas finais das atas 61-70
-- Atualizar status de validação
+#### Características
+- Total de atas: 111 (adicionadas atas 20 e 21 extraordinárias)
+- Colunas: Sessão, Tipo, Data Real, Pág Início, Pág Fim, DCL Original, Nomenclatura, Validado, Observação, Ações
+- Atas extraordinárias 20 e 21 adicionadas
+
+#### Mudanças
+- Adicionada Sessão 20 (EXTRAORDINÁRIA) - 27/09/2007 - Pág 1-2
+- Adicionada Sessão 21 (EXTRAORDINÁRIA) - 02/10/2007 - Pág 2-3
+- DCL Original: DCL_2007-11-1766369269.pdf
+- Nomenclaturas: 2007-09-27-2-SE-020-2-AC.pdf e 2007-10-02-2-SE-021-2-AC.pdf
+
+#### Critérios de Validação
+- [x] Data real confirmada: 27/09/2007 e 02/10/2007
+- [x] Páginas inicial e final confirmadas: 1-2 e 2-3
+- [x] DCL original confirmado: DCL_2007-11-1766369269.pdf
+- [x] Nomenclaturas corretas: 2007-09-27-2-SE-020-2-AC.pdf e 2007-10-02-2-SE-021-2-AC.pdf
 
 ---
 
@@ -98,12 +107,12 @@ v{MAJOR}.{MINOR}_{YYYY-MM-DD}.xlsx
 
 ## 📊 COMPARAÇÃO DE VERSÕES
 
-| Versão | Data | Atas | Validadas | Faltando | Status |
-|--------|------|------|-----------|----------|--------|
-| v1.0 | 2026-01-06 | 108 | 0 | 34 | ✅ |
-| v1.1 | 2026-01-06 | 109 | 1 | 34 | ✅ |
-| v1.2 | 2026-01-20 | 120+ | 120+ | 15 | ⏳ |
-| v1.3 | 2026-01-27 | 143+ | 143+ | 0 | ⏳ |
+| Versão | Data | Atas | Ord | Ext | Validadas | Faltando | Status |
+|--------|------|------|-----|-----|-----------|----------|--------|
+| v1.0 | 2026-01-06 | 108 | 86 | 20 | 0 | 34 | ✅ |
+| v1.1 | 2026-01-06 | 109 | 87 | 20 | 1 | 34 | ✅ |
+| v1.2 | 2026-01-06 | 111 | 87 | 22 | 2 | 32 | ✅ |
+| v1.3 | 2026-01-27 | 120+ | 96 | 30+ | 120+ | 15 | ⏳ |
 
 ---
 

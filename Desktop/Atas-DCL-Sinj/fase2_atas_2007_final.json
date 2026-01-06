@@ -979,5 +979,23 @@
     "pag_fim": 20,
     "dcl_original": "DCL_2007-10-1766369225.pdf",
     "nomenclatura": "2007-10-02-1-SO-086-2-AC.pdf"
+  },
+  {
+    "sessao_num": 20,
+    "tipo_sessao": "EXTRAORDINÁRIA",
+    "data_real": "27/09/2007",
+    "pag_inicio": 1,
+    "pag_fim": 2,
+    "dcl_original": "DCL_2007-11-1766369269.pdf",
+    "nomenclatura": "2007-09-27-2-SE-020-2-AC.pdf"
+  },
+  {
+    "sessao_num": 21,
+    "tipo_sessao": "EXTRAORDINÁRIA",
+    "data_real": "02/10/2007",
+    "pag_inicio": 2,
+    "pag_fim": 3,
+    "dcl_original": "DCL_2007-11-1766369269.pdf",
+    "nomenclatura": "2007-10-02-2-SE-021-2-AC.pdf"
   }
 ]

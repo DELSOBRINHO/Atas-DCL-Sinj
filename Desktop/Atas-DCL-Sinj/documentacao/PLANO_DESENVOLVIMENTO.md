@@ -14,8 +14,8 @@ Catalogar, validar e organizar todas as Atas Circunstanciadas da Câmara Legisla
 
 ### Escopo
 - **Total de Atas Esperadas:** ~147 (96 ordinárias + 51 extraordinárias)
-- **Atas Catalogadas Atualmente:** 108 (86 ordinárias + 20 extraordinárias)
-- **Atas Faltando:** 35 (25 ordinárias + 10 extraordinárias)
+- **Atas Catalogadas Atualmente:** 109 (87 ordinárias + 20 extraordinárias)
+- **Atas Faltando:** 34 (24 ordinárias + 10 extraordinárias)
 
 ---
 
@@ -30,9 +30,10 @@ Catalogar, validar e organizar todas as Atas Circunstanciadas da Câmara Legisla
 - [x] Extrair metadados das atas (sessão, data, páginas)
 - [x] Remover duplicatas (10 removidas)
 - [x] Adicionar atas faltantes (84, 85, 86 adicionadas)
+- [x] Adicionar ata 001 (01/02/2007 - Pág 10-22)
 - [x] Corrigir páginas finais (101, 104, 106, 107, 110, 111)
-- [ ] Conferência manual completa de todas as 108 atas
-- [ ] Procurar e adicionar 35 atas faltantes
+- [ ] Conferência manual completa de todas as 109 atas
+- [ ] Procurar e adicionar 34 atas faltantes
 - [ ] Corrigir páginas finais das atas 61-70, 104, 108, 109 (ord) e 16, 17 (ext)
 
 ### **FASE 3: Extração e Renomeação** ⏳ PENDENTE
@@ -56,7 +57,7 @@ Catalogar, validar e organizar todas as Atas Circunstanciadas da Câmara Legisla
 
 ```
 Fase 1: ████████████████████ 100% ✅
-Fase 2: ████████████░░░░░░░░  60% 🔄
+Fase 2: ███████████░░░░░░░░░  58% 🔄
 Fase 3: ░░░░░░░░░░░░░░░░░░░░   0% ⏳
 Fase 4: ░░░░░░░░░░░░░░░░░░░░   0% ⏳
 Fase 5: ░░░░░░░░░░░░░░░░░░░░   0% ⏳

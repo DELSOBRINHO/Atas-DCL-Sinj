@@ -62,8 +62,16 @@ Desktop/Atas-DCL-Sinj/
 
 ## 📊 RELATÓRIOS VERSIONADOS
 
-### v1.0 - 2026-01-06 (ATUAL)
+### v1.0 - 2026-01-06 (ANTERIOR)
 **Arquivo:** `documentacao/relatorios_conferencia/v1.0_2026-01-06.xlsx`
+
+**Características:**
+- Total de atas: 108
+- Pronto para conferência manual
+- Colunas vazias para preenchimento
+
+### v1.1 - 2026-01-06 (ATUAL) ✅
+**Arquivo:** `documentacao/relatorios_conferencia/v1.1_2026-01-06.xlsx`
 
 **Colunas:**
 1. Sessão
@@ -78,16 +86,15 @@ Desktop/Atas-DCL-Sinj/
 10. **Ações** (novo)
 
 **Características:**
-- Total de atas: 108
+- Total de atas: 109 (adicionada ata 001)
+- Ata 001: 01/02/2007 - Pág 10-22 - DCL_2007-03-044.pdf
 - Pronto para conferência manual
 - Colunas vazias para preenchimento
 
-### v1.1 - 2026-01-13 (PLANEJADO)
+### v1.2 - 2026-01-20 (PLANEJADO)
 - Conferência manual completa
 - Todas as atas validadas
 - Observações registradas
-
-### v1.2 - 2026-01-20 (PLANEJADO)
 - Atas faltantes adicionadas
 - Páginas finais corrigidas
 - ~120+ atas
@@ -136,11 +143,13 @@ Desktop/Atas-DCL-Sinj/
 | Métrica | Valor |
 |---------|-------|
 | Arquivos de Documentação | 5 |
-| Relatórios Versionados | 1 (3 planejados) |
-| Total de Atas | 108 |
-| Atas Faltando | 35 |
-| Progresso Fase 2 | 50% |
-| Tarefas Concluídas | 10/25 (40%) |
+| Relatórios Versionados | 2 (2 planejados) |
+| Total de Atas | 109 |
+| Atas Ordinárias | 87 |
+| Atas Extraordinárias | 20 |
+| Atas Faltando | 34 |
+| Progresso Fase 2 | 58% |
+| Tarefas Concluídas | 11/25 (44%) |
 
 ---
 
@@ -174,6 +183,10 @@ Desktop/Atas-DCL-Sinj/
 
 ---
 
-**Commit:** 2ce6e1e  
+**Commits:**
+- 2ce6e1e - Add documentation structure
+- c60e930 - Add documentation structure summary
+- (novo) - Add ata 001 and generate v1.1 report
+
 **Status:** ✅ Enviado para GitHub
 

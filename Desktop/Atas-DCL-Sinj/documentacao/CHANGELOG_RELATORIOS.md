@@ -26,31 +26,39 @@
 
 ---
 
-### v1.1 - 2026-01-13 (PLANEJADO)
-**Data Prevista:** 2026-01-13  
-**Arquivo:** `v1.1_2026-01-13.xlsx`  
-**Status:** ⏳ Pendente
+### v1.1 - 2026-01-06 (ATUAL)
+**Data de Criação:** 2026-01-06
+**Arquivo:** `v1.1_2026-01-06.xlsx`
+**Status:** ✅ Disponível
 
-#### Mudanças Planejadas
-- Adicionar colunas: Validado, Observação, Ações
-- Conferência manual de todas as 108 atas
-- Marcar atas validadas
-- Registrar observações e ações necessárias
+#### Características
+- Total de atas: 109 (adicionada ata 001)
+- Colunas: Sessão, Tipo, Data Real, Pág Início, Pág Fim, DCL Original, Nomenclatura, Validado, Observação, Ações
+- Ata 001 adicionada na primeira posição
+
+#### Mudanças
+- Adicionada Sessão 001 (ORDINÁRIA) - 01/02/2007 - Pág 10-22
+- Ata inserida na primeira posição da tabela
+- Nomenclatura: 2007-02-01-1-SO-001-2-AC.pdf
+- DCL Original: DCL_2007-03-044.pdf
 
 #### Critérios de Validação
-- [ ] Data real confirmada
-- [ ] Páginas inicial e final confirmadas
-- [ ] DCL original confirmado
-- [ ] Nomenclatura correta
+- [x] Data real confirmada: 01/02/2007
+- [x] Páginas inicial e final confirmadas: 10-22
+- [x] DCL original confirmado: DCL_2007-03-044.pdf
+- [x] Nomenclatura correta: 2007-02-01-1-SO-001-2-AC.pdf
 
 ---
 
 ### v1.2 - 2026-01-20 (PLANEJADO)
-**Data Prevista:** 2026-01-20  
-**Arquivo:** `v1.2_2026-01-20.xlsx`  
+**Data Prevista:** 2026-01-20
+**Arquivo:** `v1.2_2026-01-20.xlsx`
 **Status:** ⏳ Pendente
 
 #### Mudanças Planejadas
+- Conferência manual completa de todas as 109 atas
+- Marcar atas validadas (Validado: Sim/Não)
+- Registrar observações e ações necessárias
 - Adicionar atas faltantes encontradas
 - Corrigir páginas finais das atas 61-70
 - Atualizar status de validação
@@ -92,8 +100,8 @@ v{MAJOR}.{MINOR}_{YYYY-MM-DD}.xlsx
 
 | Versão | Data | Atas | Validadas | Faltando | Status |
 |--------|------|------|-----------|----------|--------|
-| v1.0 | 2026-01-06 | 108 | 0 | 35 | ✅ |
-| v1.1 | 2026-01-13 | 108 | 108 | 35 | ⏳ |
+| v1.0 | 2026-01-06 | 108 | 0 | 34 | ✅ |
+| v1.1 | 2026-01-06 | 109 | 1 | 34 | ✅ |
 | v1.2 | 2026-01-20 | 120+ | 120+ | 15 | ⏳ |
 | v1.3 | 2026-01-27 | 143+ | 143+ | 0 | ⏳ |
 

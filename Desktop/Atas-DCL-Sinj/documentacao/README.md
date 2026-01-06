@@ -111,12 +111,13 @@ relatorios_conferencia/
 
 | Métrica | Valor |
 |---------|-------|
-| Total de Atas | 108 |
-| Atas Ordinárias | 86 |
+| Total de Atas | 109 |
+| Atas Ordinárias | 87 |
 | Atas Extraordinárias | 20 |
-| Atas Faltando | 35 |
+| Atas Faltando | 34 |
 | Duplicatas Removidas | 10 |
-| Progresso Fase 2 | 50% |
+| Atas Adicionadas | 4 (84, 85, 86, 001) |
+| Progresso Fase 2 | 58% |
 
 ---
 

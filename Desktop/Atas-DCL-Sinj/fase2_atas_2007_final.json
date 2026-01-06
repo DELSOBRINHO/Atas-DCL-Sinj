@@ -1,5 +1,14 @@
 [
   {
+    "sessao_num": 1,
+    "tipo_sessao": "ORDINÁRIA",
+    "data_real": "01/02/2007",
+    "pag_inicio": 10,
+    "pag_fim": 22,
+    "dcl_original": "DCL_2007-03-044.pdf",
+    "nomenclatura": "2007-02-01-1-SO-001-2-AC.pdf"
+  },
+  {
     "dcl_original": "DCL_2007-03-044.pdf",
     "pag_inicio": 22,
     "sessao_num": "002",

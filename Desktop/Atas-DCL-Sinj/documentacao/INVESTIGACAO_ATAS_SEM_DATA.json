@@ -1,0 +1,68 @@
+[
+  {
+    "arquivo": "2007-01-009-SO-034-AC.pdf",
+    "data": null,
+    "pagina": null,
+    "status": "nao_encontrada"
+  },
+  {
+    "arquivo": "2007-01-009-SO-035-AC.pdf",
+    "data": null,
+    "pagina": null,
+    "status": "nao_encontrada"
+  },
+  {
+    "arquivo": "2007-05-101-SO-002-AC.pdf",
+    "data": "23/05/2007",
+    "pagina": 3,
+    "status": "encontrada"
+  },
+  {
+    "arquivo": "2007-05-SO-002-AC.pdf",
+    "data": "23/05/2007",
+    "pagina": 3,
+    "status": "encontrada"
+  },
+  {
+    "arquivo": "2007-06-114-SO-393-AC.pdf",
+    "data": null,
+    "pagina": null,
+    "status": "nao_encontrada"
+  },
+  {
+    "arquivo": "2007-07-128-SO-046-AC.pdf",
+    "data": "19/06/2007",
+    "pagina": 2,
+    "status": "encontrada"
+  },
+  {
+    "arquivo": "2007-07-130-SO-051-AC.pdf",
+    "data": null,
+    "pagina": null,
+    "status": "nao_encontrada"
+  },
+  {
+    "arquivo": "2007-08-142-SO-003-AC.pdf",
+    "data": null,
+    "pagina": null,
+    "status": "nao_encontrada"
+  },
+  {
+    "arquivo": "2007-09-167-SO-069-AC.pdf",
+    "data": null,
+    "pagina": null,
+    "status": "nao_encontrada"
+  },
+  {
+    "arquivo": "2007-03-SO-013-AC.pdf",
+    "data": "30 de março de 2007",
+    "pagina": 0,
+    "status": "encontrada"
+  },
+  {
+    "arquivo": "2007-12-231-SO-092-AC.pdf",
+    "data": "12 de dezembro de 2007",
+    "pagina": 0,
+    "status": "encontrada"
+  }
+]

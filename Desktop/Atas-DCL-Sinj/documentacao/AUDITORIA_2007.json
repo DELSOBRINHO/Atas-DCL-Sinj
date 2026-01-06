@@ -1,0 +1,106 @@
+{
+  "data_auditoria": "2025-12-21T16:17:14.995160",
+  "downloads": {
+    "total": 274,
+    "tamanho_mb": 1127.14,
+    "primeiro": "DCL_2007-01-001.pdf",
+    "ultimo": "DCL_2007-12-238.pdf"
+  },
+  "atas_ac": {
+    "total": 22,
+    "corretos": 0,
+    "incorretos": 22,
+    "tamanho_mb": 105.75,
+    "arquivos_incorretos": [
+      {
+        "arquivo": "2007-01-009-SO-034-AC.pdf",
+        "erro": "Nomenclatura incorreta: 2007-01-009-SO-034-AC.pdf"
+      },
+      {
+        "arquivo": "2007-01-009-SO-035-AC.pdf",
+        "erro": "Nomenclatura incorreta: 2007-01-009-SO-035-AC.pdf"
+      },
+      {
+        "arquivo": "2007-01-231-SO-092-AC.pdf",
+        "erro": "Nomenclatura incorreta: 2007-01-231-SO-092-AC.pdf"
+      },
+      {
+        "arquivo": "2007-02-032-SO-113-AC.pdf",
+        "erro": "Nomenclatura incorreta: 2007-02-032-SO-113-AC.pdf"
+      },
+      {
+        "arquivo": "2007-03-044-SO-001-AC.pdf",
+        "erro": "Nomenclatura incorreta: 2007-03-044-SO-001-AC.pdf"
+      },
+      {
+        "arquivo": "2007-03-049-SO-003-AC.pdf",
+        "erro": "Nomenclatura incorreta: 2007-03-049-SO-003-AC.pdf"
+      },
+      {
+        "arquivo": "2007-03-060-SO-013-AC.pdf",
+        "erro": "Nomenclatura incorreta: 2007-03-060-SO-013-AC.pdf"
+      },
+      {
+        "arquivo": "2007-03-SO-013-AC.pdf",
+        "erro": "Nomenclatura incorreta: 2007-03-SO-013-AC.pdf"
+      },
+      {
+        "arquivo": "2007-04-061-SO-037-AC.pdf",
+        "erro": "Nomenclatura incorreta: 2007-04-061-SO-037-AC.pdf"
+      },
+      {
+        "arquivo": "2007-05-088-SO-019-AC.pdf",
+        "erro": "Nomenclatura incorreta: 2007-05-088-SO-019-AC.pdf"
+      },
+      {
+        "arquivo": "2007-05-093-SO-025-AC.pdf",
+        "erro": "Nomenclatura incorreta: 2007-05-093-SO-025-AC.pdf"
+      },
+      {
+        "arquivo": "2007-05-096-SO-032-AC.pdf",
+        "erro": "Nomenclatura incorreta: 2007-05-096-SO-032-AC.pdf"
+      },
+      {
+        "arquivo": "2007-05-101-SO-002-AC.pdf",
+        "erro": "Nomenclatura incorreta: 2007-05-101-SO-002-AC.pdf"
+      },
+      {
+        "arquivo": "2007-05-SO-002-AC.pdf",
+        "erro": "Nomenclatura incorreta: 2007-05-SO-002-AC.pdf"
+      },
+      {
+        "arquivo": "2007-06-114-SO-393-AC.pdf",
+        "erro": "Nomenclatura incorreta: 2007-06-114-SO-393-AC.pdf"
+      },
+      {
+        "arquivo": "2007-07-128-SO-046-AC.pdf",
+        "erro": "Nomenclatura incorreta: 2007-07-128-SO-046-AC.pdf"
+      },
+      {
+        "arquivo": "2007-07-130-SO-051-AC.pdf",
+        "erro": "Nomenclatura incorreta: 2007-07-130-SO-051-AC.pdf"
+      },
+      {
+        "arquivo": "2007-08-142-SO-003-AC.pdf",
+        "erro": "Nomenclatura incorreta: 2007-08-142-SO-003-AC.pdf"
+      },
+      {
+        "arquivo": "2007-08-144-SO-057-AC.pdf",
+        "erro": "Nomenclatura incorreta: 2007-08-144-SO-057-AC.pdf"
+      },
+      {
+        "arquivo": "2007-08-162-SO-061-AC.pdf",
+        "erro": "Nomenclatura incorreta: 2007-08-162-SO-061-AC.pdf"
+      },
+      {
+        "arquivo": "2007-09-167-SO-069-AC.pdf",
+        "erro": "Nomenclatura incorreta: 2007-09-167-SO-069-AC.pdf"
+      },
+      {
+        "arquivo": "2007-12-231-SO-092-AC.pdf",
+        "erro": "Nomenclatura incorreta: 2007-12-231-SO-092-AC.pdf"
+      }
+    ]
+  },
+  "inconsistencias": []
+}

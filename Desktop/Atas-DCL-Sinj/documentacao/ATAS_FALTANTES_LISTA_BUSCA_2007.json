@@ -1,0 +1,614 @@
+{
+  "data": "2025-12-21T16:38:29.978119",
+  "total_faltantes": 100,
+  "atas_faltantes": [
+    {
+      "numero_sessao": 4,
+      "ata_sucinta": "2007-02-08-1-SO-004-1-AS.pdf",
+      "data": "2007-02-08",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 5,
+      "ata_sucinta": "2007-02-13-1-SO-005-1-AS.pdf",
+      "data": "2007-02-13",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 6,
+      "ata_sucinta": "2007-02-14-1-SO-006-1-AS.pdf",
+      "data": "2007-02-14",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 7,
+      "ata_sucinta": "2007-02-15-1-SO-007-1-AS.pdf",
+      "data": "2007-02-15",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 8,
+      "ata_sucinta": "2007-02-22-1-SO-008-1-AS.pdf",
+      "data": "2007-02-22",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 9,
+      "ata_sucinta": "2007-02-27-1-SO-009-1-AS.pdf",
+      "data": "2007-02-27",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 10,
+      "ata_sucinta": "2007-02-28-1-SO-010-1-AS.pdf",
+      "data": "2007-02-28",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 11,
+      "ata_sucinta": "2007-03-01-1-SO-011-1-AS.pdf",
+      "data": "2007-03-01",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 12,
+      "ata_sucinta": "2007-03-06-1-SO-012-1-AS.pdf",
+      "data": "2007-03-06",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 14,
+      "ata_sucinta": "2007-03-08-1-SO-014-1-AS.pdf",
+      "data": "2007-03-08",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 15,
+      "ata_sucinta": "2007-03-13-1-SO-015-1-AS.pdf",
+      "data": "2007-03-13",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 16,
+      "ata_sucinta": "2007-03-14-1-SO-016-1-AS.pdf",
+      "data": "2007-03-14",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 17,
+      "ata_sucinta": "2007-03-15-1-SO-017-1-AS.pdf",
+      "data": "2007-03-15",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 18,
+      "ata_sucinta": "2007-03-20-1-SO-018-1-AS.pdf",
+      "data": "2007-03-20",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 20,
+      "ata_sucinta": "2007-03-22-1-SO-020-1-AS.pdf",
+      "data": "2007-03-22",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 21,
+      "ata_sucinta": "2007-03-27-1-SO-021-1-AS.pdf",
+      "data": "2007-03-27",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 22,
+      "ata_sucinta": "2007-03-28-1-SO-022-1-AS.pdf",
+      "data": "2007-03-28",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 23,
+      "ata_sucinta": "2007-03-29-1-SO-023-1-AS.pdf",
+      "data": "2007-03-29",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 24,
+      "ata_sucinta": "2007-04-03-1-SO-024-1-AS.pdf",
+      "data": "2007-04-03",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 26,
+      "ata_sucinta": "2007-04-10-1-SO-026-1-AS.pdf",
+      "data": "2007-04-10",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 27,
+      "ata_sucinta": "2007-04-11-1-SO-027-1-AS.pdf",
+      "data": "2007-04-11",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 28,
+      "ata_sucinta": "2007-04-12-1-SO-028-1-AS.pdf",
+      "data": "2007-04-12",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 29,
+      "ata_sucinta": "2007-04-17-1-SO-029-1-AS.pdf",
+      "data": "2007-04-17",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 30,
+      "ata_sucinta": "2007-04-18-1-SO-030-1-AS.pdf",
+      "data": "2007-04-18",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 31,
+      "ata_sucinta": "2007-04-19-1-SO-031-1-AS.pdf",
+      "data": "2007-04-19",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 33,
+      "ata_sucinta": "2007-04-25-1-SO-033-1-AS.pdf",
+      "data": "2007-04-25",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 36,
+      "ata_sucinta": "2007-05-03-1-SO-036-1-AS.pdf",
+      "data": "2007-05-03",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 38,
+      "ata_sucinta": "2007-05-09-1-SO-038-1-AS.pdf",
+      "data": "2007-05-09",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 39,
+      "ata_sucinta": "2007-05-10-1-SO-039-1-AS.pdf",
+      "data": "2007-05-10",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 40,
+      "ata_sucinta": "2007-05-15-1-SO-040-1-AS.pdf",
+      "data": "2007-05-15",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 41,
+      "ata_sucinta": "2007-05-16-1-SO-041-1-AS.pdf",
+      "data": "2007-05-16",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 42,
+      "ata_sucinta": "2007-05-17-1-SO-042-1-AS.pdf",
+      "data": "2007-05-17",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 43,
+      "ata_sucinta": "2007-05-22-1-SO-043-1-AS.pdf",
+      "data": "2007-05-22",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 44,
+      "ata_sucinta": "2007-05-23-1-SO-044-1-AS.pdf",
+      "data": "2007-05-23",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 45,
+      "ata_sucinta": "2007-05-24-1-SO-045-1-AS.pdf",
+      "data": "2007-05-24",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 47,
+      "ata_sucinta": "2007-05-30-1-SO-047-1-AS.pdf",
+      "data": "2007-05-30",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 48,
+      "ata_sucinta": "2007-05-31-1-SO-048-1-AS.pdf",
+      "data": "2007-05-31",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 49,
+      "ata_sucinta": "2007-06-05-1-SO-049-1-AS.pdf",
+      "data": "2007-06-05",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 50,
+      "ata_sucinta": "2007-06-06-1-SO-050-1-AS.pdf",
+      "data": "2007-06-06",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 52,
+      "ata_sucinta": "2007-06-13-1-SO-052-1-AS.pdf",
+      "data": "2007-06-13",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 53,
+      "ata_sucinta": "2007-06-14-1-SO-053-1-AS.pdf",
+      "data": "2007-06-14",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 54,
+      "ata_sucinta": "2007-06-19-1-SO-054-1-AS.pdf",
+      "data": "2007-06-19",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 55,
+      "ata_sucinta": "2007-06-20-1-SO-055-1-AS.pdf",
+      "data": "2007-06-20",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 56,
+      "ata_sucinta": "2007-06-21-1-SO-056-1-AS.pdf",
+      "data": "2007-06-21",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 58,
+      "ata_sucinta": "2007-06-27-1-SO-058-1-AS.pdf",
+      "data": "2007-06-27",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 59,
+      "ata_sucinta": "2007-06-28-1-SO-059-1-AS.pdf",
+      "data": "2007-06-28",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 60,
+      "ata_sucinta": "2007-08-01-1-SO-060-1-AS.pdf",
+      "data": "2007-08-01",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 62,
+      "ata_sucinta": "2007-08-07-1-SO-062-1-AS.pdf",
+      "data": "2007-08-07",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 63,
+      "ata_sucinta": "2007-08-08-1-SO-063-1-AS.pdf",
+      "data": "2007-08-08",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 64,
+      "ata_sucinta": "2007-08-09-1-SO-064-1-AS.pdf",
+      "data": "2007-08-09",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 65,
+      "ata_sucinta": "2007-08-14-1-SO-065-1-AS.pdf",
+      "data": "2007-08-14",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 66,
+      "ata_sucinta": "2007-08-15-1-SO-066-1-AS.pdf",
+      "data": "2007-08-15",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 67,
+      "ata_sucinta": "2007-08-16-1-SO-067-1-AS.pdf",
+      "data": "2007-08-16",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 68,
+      "ata_sucinta": "2007-08-21-1-SO-068-1-AS.pdf",
+      "data": "2007-08-21",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 70,
+      "ata_sucinta": "2007-08-23-1-SO-070-1-AS.pdf",
+      "data": "2007-08-23",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 71,
+      "ata_sucinta": "2007-08-28-1-SO-071-1-AS.pdf",
+      "data": "2007-08-28",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 72,
+      "ata_sucinta": "2007-08-29-1-SO-072-1-AS.pdf",
+      "data": "2007-08-29",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 73,
+      "ata_sucinta": "2007-08-30-1-SO-073-1-AS.pdf",
+      "data": "2007-08-30",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 74,
+      "ata_sucinta": "2007-09-04-1-SO-074-1-AS.pdf",
+      "data": "2007-09-04",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 75,
+      "ata_sucinta": "2007-09-05-1-SO-075-1-AS.pdf",
+      "data": "2007-09-05",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 76,
+      "ata_sucinta": "2007-09-06-1-SO-076-1-AS.pdf",
+      "data": "2007-09-06",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 77,
+      "ata_sucinta": "2007-09-11-1-SO-077-1-AS.pdf",
+      "data": "2007-09-11",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 78,
+      "ata_sucinta": "2007-09-12-1-SO-078-1-AS.pdf",
+      "data": "2007-09-12",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 79,
+      "ata_sucinta": "2007-09-13-1-SO-079-1-AS.pdf",
+      "data": "2007-09-13",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 80,
+      "ata_sucinta": "2007-09-18-1-SO-080-1-AS.pdf",
+      "data": "2007-09-18",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 81,
+      "ata_sucinta": "2007-09-19-1-SO-081-1-AS.pdf",
+      "data": "2007-09-19",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 82,
+      "ata_sucinta": "2007-09-20-1-SO-082-1-AS.pdf",
+      "data": "2007-09-20",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 83,
+      "ata_sucinta": "2007-09-25-1-SO-083-1-AS.pdf",
+      "data": "2007-09-25",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 84,
+      "ata_sucinta": "2007-09-26-1-SO-084-1-AS.pdf",
+      "data": "2007-09-26",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 85,
+      "ata_sucinta": "2007-09-27-1-SO-085-1-AS.pdf",
+      "data": "2007-09-27",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 86,
+      "ata_sucinta": "2007-10-02-1-SO-086-1-AS.pdf",
+      "data": "2007-10-02",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 87,
+      "ata_sucinta": "2007-10-03-1-SO-087-1-AS.pdf",
+      "data": "2007-10-03",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 88,
+      "ata_sucinta": "2007-10-04-1-SO-088-1-AS.pdf",
+      "data": "2007-10-04",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 89,
+      "ata_sucinta": "2007-10-09-1-SO-089-1-AS.pdf",
+      "data": "2007-10-09",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 90,
+      "ata_sucinta": "2007-10-10-1-SO-090-1-AS.pdf",
+      "data": "2007-10-10",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 91,
+      "ata_sucinta": "2007-10-11-1-SO-091-1-AS.pdf",
+      "data": "2007-10-11",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 93,
+      "ata_sucinta": "2007-10-17-1-SO-093-1-AS.pdf",
+      "data": "2007-10-17",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 94,
+      "ata_sucinta": "2007-10-18-1-SO-094-1-AS.pdf",
+      "data": "2007-10-18",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 95,
+      "ata_sucinta": "2007-10-23-1-SO-095-1-AS.pdf",
+      "data": "2007-10-23",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 96,
+      "ata_sucinta": "2007-10-24-1-SO-096-1-AS.pdf",
+      "data": "2007-10-24",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 97,
+      "ata_sucinta": "2007-10-25-1-SO-097-1-AS.pdf",
+      "data": "2007-10-25",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 98,
+      "ata_sucinta": "2007-10-30-1-SO-098-1-AS.pdf",
+      "data": "2007-10-30",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 99,
+      "ata_sucinta": "2007-10-31-1-SO-099-1-AS.pdf",
+      "data": "2007-10-31",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 100,
+      "ata_sucinta": "2007-11-01-1-SO-100-1-AS.pdf",
+      "data": "2007-11-01",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 101,
+      "ata_sucinta": "2007-11-06-1-SO-101-1-AS.pdf",
+      "data": "2007-11-06",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 102,
+      "ata_sucinta": "2007-11-07-1-SO-102-1-AS.pdf",
+      "data": "2007-11-07",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 103,
+      "ata_sucinta": "2007-11-08-1-SO-103-1-AS.pdf",
+      "data": "2007-11-08",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 104,
+      "ata_sucinta": "2007-11-13-1-SO-104-1-AS.pdf",
+      "data": "2007-11-13",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 105,
+      "ata_sucinta": "2007-11-14-1-SO-105-1-AS.pdf",
+      "data": "2007-11-14",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 106,
+      "ata_sucinta": "2007-11-20-1-SO-106-1-AS.pdf",
+      "data": "2007-11-20",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 107,
+      "ata_sucinta": "2007-11-21-1-SO-107-1-AS.pdf",
+      "data": "2007-11-21",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 108,
+      "ata_sucinta": "2007-11-22-1-SO-108-1-AS.pdf",
+      "data": "2007-11-22",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 109,
+      "ata_sucinta": "2007-11-27-1-SO-109-1-AS.pdf",
+      "data": "2007-11-27",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 110,
+      "ata_sucinta": "2007-11-28-1-SO-110-1-AS.pdf",
+      "data": "2007-11-28",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 111,
+      "ata_sucinta": "2007-11-29-1-SO-111-1-AS.pdf",
+      "data": "2007-11-29",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 112,
+      "ata_sucinta": "2007-12-04-1-SO-112-1-AS.pdf",
+      "data": "2007-12-04",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 114,
+      "ata_sucinta": "2007-12-06-1-SO-114-1-AS.pdf",
+      "data": "2007-12-06",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 115,
+      "ata_sucinta": "2007-12-11-1-SO-115-1-AS.pdf",
+      "data": "2007-12-11",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 116,
+      "ata_sucinta": "2007-12-12-1-SO-116-1-AS.pdf",
+      "data": "2007-12-12",
+      "status": "sem_correspondencia"
+    },
+    {
+      "numero_sessao": 117,
+      "ata_sucinta": "2007-12-13-1-SO-117-1-AS.pdf",
+      "data": "2007-12-13",
+      "status": "sem_correspondencia"
+    }
+  ],
+  "instrucoes": [
+    "1. Acessar SINJ-DF: https://www.sinj.df.gov.br",
+    "2. Buscar por \"Diário da Câmara Legislativa\" (DCL)",
+    "3. Filtrar por ano 2007",
+    "4. Para cada ata faltante, procurar por número de sessão",
+    "5. Verificar se existe ata circunstanciada",
+    "6. Se existir, baixar e adicionar à pasta atas_circunstanciadas_2007"
+  ]
+}

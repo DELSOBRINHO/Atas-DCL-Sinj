@@ -1,0 +1,207 @@
+{
+  "data": "2025-12-21T16:35:12.369975",
+  "total": 22,
+  "corretos": 13,
+  "incorretos": 9,
+  "percentual_correto": 59,
+  "padroes_corretos": [
+    {
+      "arquivo": "2007-02-15-1-SO-113-2-AC.pdf",
+      "componentes": {
+        "ano": "2007",
+        "mes": "02",
+        "dia": "15",
+        "codigo_tipo_sessao": "1",
+        "tipo_sessao": "SO",
+        "numero_sessao": "113",
+        "codigo_tipo_ata": "2",
+        "tipo_ata": "AC"
+      }
+    },
+    {
+      "arquivo": "2007-03-06-1-SO-003-2-AC.pdf",
+      "componentes": {
+        "ano": "2007",
+        "mes": "03",
+        "dia": "06",
+        "codigo_tipo_sessao": "1",
+        "tipo_sessao": "SO",
+        "numero_sessao": "003",
+        "codigo_tipo_ata": "2",
+        "tipo_ata": "AC"
+      }
+    },
+    {
+      "arquivo": "2007-03-08-1-SO-001-2-AC.pdf",
+      "componentes": {
+        "ano": "2007",
+        "mes": "03",
+        "dia": "08",
+        "codigo_tipo_sessao": "1",
+        "tipo_sessao": "SO",
+        "numero_sessao": "001",
+        "codigo_tipo_ata": "2",
+        "tipo_ata": "AC"
+      }
+    },
+    {
+      "arquivo": "2007-03-30-1-SO-013-2-AC.pdf",
+      "componentes": {
+        "ano": "2007",
+        "mes": "03",
+        "dia": "30",
+        "codigo_tipo_sessao": "1",
+        "tipo_sessao": "SO",
+        "numero_sessao": "013",
+        "codigo_tipo_ata": "2",
+        "tipo_ata": "AC"
+      }
+    },
+    {
+      "arquivo": "2007-04-02-1-SO-037-2-AC.pdf",
+      "componentes": {
+        "ano": "2007",
+        "mes": "04",
+        "dia": "02",
+        "codigo_tipo_sessao": "1",
+        "tipo_sessao": "SO",
+        "numero_sessao": "037",
+        "codigo_tipo_ata": "2",
+        "tipo_ata": "AC"
+      }
+    },
+    {
+      "arquivo": "2007-04-26-1-SO-025-2-AC.pdf",
+      "componentes": {
+        "ano": "2007",
+        "mes": "04",
+        "dia": "26",
+        "codigo_tipo_sessao": "1",
+        "tipo_sessao": "SO",
+        "numero_sessao": "025",
+        "codigo_tipo_ata": "2",
+        "tipo_ata": "AC"
+      }
+    },
+    {
+      "arquivo": "2007-05-14-1-SO-019-2-AC.pdf",
+      "componentes": {
+        "ano": "2007",
+        "mes": "05",
+        "dia": "14",
+        "codigo_tipo_sessao": "1",
+        "tipo_sessao": "SO",
+        "numero_sessao": "019",
+        "codigo_tipo_ata": "2",
+        "tipo_ata": "AC"
+      }
+    },
+    {
+      "arquivo": "2007-05-23-1-SO-002-2-AC.pdf",
+      "componentes": {
+        "ano": "2007",
+        "mes": "05",
+        "dia": "23",
+        "codigo_tipo_sessao": "1",
+        "tipo_sessao": "SO",
+        "numero_sessao": "002",
+        "codigo_tipo_ata": "2",
+        "tipo_ata": "AC"
+      }
+    },
+    {
+      "arquivo": "2007-05-24-1-SO-032-2-AC.pdf",
+      "componentes": {
+        "ano": "2007",
+        "mes": "05",
+        "dia": "24",
+        "codigo_tipo_sessao": "1",
+        "tipo_sessao": "SO",
+        "numero_sessao": "032",
+        "codigo_tipo_ata": "2",
+        "tipo_ata": "AC"
+      }
+    },
+    {
+      "arquivo": "2007-06-19-1-SO-046-2-AC.pdf",
+      "componentes": {
+        "ano": "2007",
+        "mes": "06",
+        "dia": "19",
+        "codigo_tipo_sessao": "1",
+        "tipo_sessao": "SO",
+        "numero_sessao": "046",
+        "codigo_tipo_ata": "2",
+        "tipo_ata": "AC"
+      }
+    },
+    {
+      "arquivo": "2007-06-26-1-SO-057-2-AC.pdf",
+      "componentes": {
+        "ano": "2007",
+        "mes": "06",
+        "dia": "26",
+        "codigo_tipo_sessao": "1",
+        "tipo_sessao": "SO",
+        "numero_sessao": "057",
+        "codigo_tipo_ata": "2",
+        "tipo_ata": "AC"
+      }
+    },
+    {
+      "arquivo": "2007-08-29-1-SO-061-2-AC.pdf",
+      "componentes": {
+        "ano": "2007",
+        "mes": "08",
+        "dia": "29",
+        "codigo_tipo_sessao": "1",
+        "tipo_sessao": "SO",
+        "numero_sessao": "061",
+        "codigo_tipo_ata": "2",
+        "tipo_ata": "AC"
+      }
+    },
+    {
+      "arquivo": "2007-12-12-1-SO-092-2-AC.pdf",
+      "componentes": {
+        "ano": "2007",
+        "mes": "12",
+        "dia": "12",
+        "codigo_tipo_sessao": "1",
+        "tipo_sessao": "SO",
+        "numero_sessao": "092",
+        "codigo_tipo_ata": "2",
+        "tipo_ata": "AC"
+      }
+    }
+  ],
+  "padroes_incorretos": [
+    {
+      "arquivo": "2007-01-009-SO-034-AC.pdf"
+    },
+    {
+      "arquivo": "2007-01-009-SO-035-AC.pdf"
+    },
+    {
+      "arquivo": "2007-03-SO-013-AC.pdf"
+    },
+    {
+      "arquivo": "2007-05-SO-002-AC.pdf"
+    },
+    {
+      "arquivo": "2007-06-114-SO-393-AC.pdf"
+    },
+    {
+      "arquivo": "2007-07-130-SO-051-AC.pdf"
+    },
+    {
+      "arquivo": "2007-08-142-SO-003-AC.pdf"
+    },
+    {
+      "arquivo": "2007-09-167-SO-069-AC.pdf"
+    },
+    {
+      "arquivo": "2007-12-231-SO-092-AC.pdf"
+    }
+  ]
+}

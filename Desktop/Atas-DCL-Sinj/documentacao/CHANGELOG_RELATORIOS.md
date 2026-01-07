@@ -6,29 +6,41 @@
 
 ## 📋 HISTÓRICO DE VERSÕES
 
-### v1.4 - 2026-01-07 (ATUAL) ✅
+### v1.5 - 2026-01-07 (ATUAL) ✅
 **Data de Criação:** 2026-01-07
-**Arquivo:** `v1.4_2026-01-07.xlsx`
+**Arquivo:** `v1.5_2026-01-07.xlsx`
 **Status:** ✅ Disponível
 
 #### Características
 - Total de atas: 111 (87 ordinárias + 22 extraordinárias)
 - Colunas: Sessão, Tipo, Data Real, **Data Publicação Ata**, Pág Início, Pág Fim, DCL Original, Nomenclatura, Validado, Observação, Ações
-- Lógica inteligente de página final implementada
+- **Páginas finais analisadas via OCR nos PDFs originais**
+
+#### Mudanças
+- ✅ **Análise completa dos DCLs via OCR para encontrar fim real das sessões**
+- ✅ **42 páginas finais corrigidas** com base nos marcadores de encerramento
+- ✅ Marcadores procurados: "Encerrou-se a sessão", "Foi encerrada a sessão", "Sessão encerrada", etc.
+- ✅ Lógica implementada:
+  - Prioridade 1: Marcador de fim da sessão encontrado no PDF
+  - Prioridade 2: Encontro de uma nova ata (pág_inicio da próxima - 1)
+  - Prioridade 3: Final do DCL (último recurso)
+
+#### Benefícios
+- Páginas finais precisas baseadas no conteúdo real dos PDFs
+- Eliminação de páginas extras não relacionadas à sessão
+- Melhor representação do conteúdo real de cada ata
+
+---
+
+### v1.4 - 2026-01-07 ✅
+**Data de Criação:** 2026-01-07
+**Arquivo:** `v1.4_2026-01-07.xlsx`
+**Status:** ✅ Disponível
 
 #### Mudanças
 - ✅ Campo renomeado: `data_publicacao_dcl` → `data_publicacao_ata`
 - ✅ Coluna renomeada: "Data Publicação DCL" → "Data Publicação Ata"
-- ✅ Lógica inteligente de página final:
-  - Prioridade 1: Fim confirmado da sessão
-  - Prioridade 2: Encontro de uma nova ata
-  - Prioridade 3: Final do DCL (último recurso)
-- ✅ Redução de páginas desnecessárias no final dos DCLs
-
-#### Benefícios
-- Nomenclatura mais precisa (ata vs dcl)
-- Páginas finais mais precisas
-- Melhor representação do conteúdo real de cada ata
+- ✅ Lógica básica de página final implementada
 
 ---
 

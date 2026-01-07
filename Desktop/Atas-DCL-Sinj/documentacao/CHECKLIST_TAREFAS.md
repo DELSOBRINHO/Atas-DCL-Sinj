@@ -157,11 +157,11 @@
 | Fase | Status | Progresso | Tarefas |
 |------|--------|-----------|---------|
 | 1 | ✅ Concluída | 100% | 4/4 |
-| 2 | 🔄 Em Progresso | 83% | 10/12 |
+| 2 | 🔄 Em Progresso | 92% | 11/12 |
 | 3 | ⏳ Pendente | 0% | 0/3 |
 | 4 | ⏳ Pendente | 0% | 0/3 |
 | 5 | ⏳ Pendente | 0% | 0/3 |
-| **TOTAL** | **🔄 Em Progresso** | **40%** | **14/25** |
+| **TOTAL** | **🔄 Em Progresso** | **44%** | **15/25** |
 
 ---
 

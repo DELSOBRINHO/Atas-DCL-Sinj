@@ -117,7 +117,8 @@ relatorios_conferencia/
 | Atas Faltando | 32 |
 | Duplicatas Removidas | 10 |
 | Atas Adicionadas | 6 (84, 85, 86, 001, 20, 21) |
-| Progresso Fase 2 | 67% |
+| Campos Adicionados | data_publicacao_dcl |
+| Progresso Fase 2 | 75% |
 
 ---
 

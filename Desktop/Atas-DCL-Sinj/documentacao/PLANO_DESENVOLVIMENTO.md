@@ -32,6 +32,7 @@ Catalogar, validar e organizar todas as Atas Circunstanciadas da Câmara Legisla
 - [x] Adicionar atas faltantes (84, 85, 86 adicionadas)
 - [x] Adicionar ata 001 (01/02/2007 - Pág 10-22)
 - [x] Adicionar atas 20, 21 extraordinárias (27/09/2007 e 02/10/2007)
+- [x] Implementar campo Data Publicação DCL (v1.3 gerada)
 - [x] Corrigir páginas finais (101, 104, 106, 107, 110, 111)
 - [ ] Conferência manual completa de todas as 111 atas
 - [ ] Procurar e adicionar 32 atas faltantes
@@ -58,7 +59,7 @@ Catalogar, validar e organizar todas as Atas Circunstanciadas da Câmara Legisla
 
 ```
 Fase 1: ████████████████████ 100% ✅
-Fase 2: ██████████████░░░░░░  67% 🔄
+Fase 2: ███████████████░░░░░░  75% 🔄
 Fase 3: ░░░░░░░░░░░░░░░░░░░░   0% ⏳
 Fase 4: ░░░░░░░░░░░░░░░░░░░░   0% ⏳
 Fase 5: ░░░░░░░░░░░░░░░░░░░░   0% ⏳

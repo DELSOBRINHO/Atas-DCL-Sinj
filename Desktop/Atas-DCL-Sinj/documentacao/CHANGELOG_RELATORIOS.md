@@ -6,6 +6,30 @@
 
 ## 📋 HISTÓRICO DE VERSÕES
 
+### v1.3 - 2026-01-07 (ATUAL) ✅
+**Data de Criação:** 2026-01-07
+**Arquivo:** `v1.3_2026-01-07.xlsx`
+**Status:** ✅ Disponível
+
+#### Características
+- Total de atas: 111 (87 ordinárias + 22 extraordinárias)
+- **Nova Coluna:** Data Publicação DCL
+- Colunas: Sessão, Tipo, Data Real, **Data Publicação DCL**, Pág Início, Pág Fim, DCL Original, Nomenclatura, Validado, Observação, Ações
+- Atas extraordinárias 20 e 21 adicionadas
+
+#### Mudanças
+- Adicionada coluna "Data Publicação DCL" extraída do nome do arquivo
+- Padrão de extração: DCL_YYYY-MM-NNNNNNNNNN.pdf → 01/MM/YYYY
+- Campo `data_publicacao_dcl` adicionado ao JSON
+- Atas 20 e 21 extraordinárias incluídas (27/09/2007 e 02/10/2007)
+
+#### Benefícios
+- Rastreamento de quando cada ata foi publicada no DCL
+- Identificação de atrasos entre data da sessão e publicação
+- Melhor organização cronológica dos documentos
+
+---
+
 ### v1.0 - 2026-01-06 (INICIAL)
 **Data de Criação:** 2026-01-06  
 **Arquivo:** `v1.0_2026-01-06.xlsx`  
@@ -26,7 +50,25 @@
 
 ---
 
-### v1.1 - 2026-01-06 (ATUAL)
+### v1.2 - 2026-01-06 ✅
+**Data de Criação:** 2026-01-06
+**Arquivo:** `v1.2_2026-01-06.xlsx`
+**Status:** ✅ Disponível
+
+#### Características
+- Total de atas: 111 (87 ordinárias + 22 extraordinárias)
+- Colunas: Sessão, Tipo, Data Real, Pág Início, Pág Fim, DCL Original, Nomenclatura, Validado, Observação, Ações
+- Atas extraordinárias 20 e 21 adicionadas
+
+#### Mudanças
+- Adicionadas Sessões 20 e 21 (EXTRAORDINÁRIAS)
+- Sessão 20: 27/09/2007 - Pág 1-2
+- Sessão 21: 02/10/2007 - Pág 2-3
+- DCL Original: DCL_2007-11-1766369269.pdf
+
+---
+
+### v1.1 - 2026-01-06
 **Data de Criação:** 2026-01-06
 **Arquivo:** `v1.1_2026-01-06.xlsx`
 **Status:** ✅ Disponível

@@ -6,10 +6,37 @@
 
 ## 📋 HISTÓRICO DE VERSÕES
 
-### v1.6 - 2026-01-07 (ATUAL) ✅
+### v1.7 - 2026-01-07 (ATUAL) ✅
 **Data de Criação:** 2026-01-07
-**Arquivo:** `v1.6_2026-01-07.xlsx`
+**Arquivo:** `v1.7_2026-01-07.xlsx`
 **Status:** ✅ Disponível
+
+#### Características
+- Total de atas: 111 (87 ordinárias + 22 extraordinárias)
+- Colunas: Sessão, Tipo, Data Real, **Data Publicação Ata**, Pág Início, Pág Fim, DCL Original, Nomenclatura, Validado, Observação, Ações
+- **Datas de publicação extraídas do cabeçalho REAL de cada DCL**
+
+#### Mudanças
+- ✅ **Correção crítica da Data de Publicação da Ata**
+- ✅ Antes: usava `01/{mês}/{ano}` baseado no nome do arquivo (ERRADO)
+- ✅ Agora: extrai a data real do cabeçalho do DCL (ex: "8 de março de 2007")
+- ✅ **27 DCLs lidos e datas extraídas**
+- ✅ **111 atas atualizadas**
+
+#### Exemplo de Correção
+| DCL | Antes | Depois |
+|-----|-------|--------|
+| DCL_2007-03-044.pdf | 01/03/2007 | **08/03/2007** ✅ |
+| DCL_2007-03-049.pdf | 01/03/2007 | **15/03/2007** ✅ |
+| DCL_2007-05-096.pdf | 01/05/2007 | **24/05/2007** ✅ |
+
+---
+
+### v1.6 - 2026-01-07 ✅
+**Arquivo:** `v1.6_2026-01-07.xlsx`
+**Mudanças:** Marcadores de encerramento expandidos (90 correções de páginas finais)
+
+---
 
 #### Características
 - Total de atas: 111 (87 ordinárias + 22 extraordinárias)

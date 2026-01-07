@@ -6,29 +6,42 @@
 
 ## 📋 HISTÓRICO DE VERSÕES
 
-### v1.5 - 2026-01-07 (ATUAL) ✅
+### v1.6 - 2026-01-07 (ATUAL) ✅
 **Data de Criação:** 2026-01-07
-**Arquivo:** `v1.5_2026-01-07.xlsx`
+**Arquivo:** `v1.6_2026-01-07.xlsx`
 **Status:** ✅ Disponível
 
 #### Características
 - Total de atas: 111 (87 ordinárias + 22 extraordinárias)
 - Colunas: Sessão, Tipo, Data Real, **Data Publicação Ata**, Pág Início, Pág Fim, DCL Original, Nomenclatura, Validado, Observação, Ações
-- **Páginas finais analisadas via OCR nos PDFs originais**
+- **Páginas finais analisadas via OCR v2 nos PDFs originais**
 
 #### Mudanças
-- ✅ **Análise completa dos DCLs via OCR para encontrar fim real das sessões**
-- ✅ **42 páginas finais corrigidas** com base nos marcadores de encerramento
-- ✅ Marcadores procurados: "Encerrou-se a sessão", "Foi encerrada a sessão", "Sessão encerrada", etc.
-- ✅ Lógica implementada:
-  - Prioridade 1: Marcador de fim da sessão encontrado no PDF
-  - Prioridade 2: Encontro de uma nova ata (pág_inicio da próxima - 1)
-  - Prioridade 3: Final do DCL (último recurso)
+- ✅ **Marcadores de encerramento EXPANDIDOS:**
+  - "Está encerrada a sessão", "Está encerrada a presente sessão"
+  - "Declaro encerrada a sessão", "Encerro a sessão"
+  - "Nada mais havendo a tratar, declaro encerrada..."
+  - "Levanta-se a sessão às..."
+- ✅ **90 páginas finais corrigidas** (antes eram 42)
+- ✅ Busca até a **última ocorrência** do marcador de encerramento
+- ✅ A página onde o marcador aparece É a página final
 
-#### Benefícios
-- Páginas finais precisas baseadas no conteúdo real dos PDFs
-- Eliminação de páginas extras não relacionadas à sessão
-- Melhor representação do conteúdo real de cada ata
+#### Sessões Verificadas (exemplos)
+| Sessão | Tipo | Páginas | Status |
+|--------|------|---------|--------|
+| 001 | ORD | 10-22 | ✅ |
+| 002 | ORD | 22-25 | ✅ |
+| 002 | EXT | 1-4 | ✅ |
+| 032 | ORD | 1-13 | ✅ |
+| 033 | ORD | 14-19 | ✅ |
+| 034 | ORD | 19-32 | ✅ |
+| 038 | ORD | 4-11 | ✅ |
+
+---
+
+### v1.5 - 2026-01-07 ✅
+**Arquivo:** `v1.5_2026-01-07.xlsx`
+**Mudanças:** Primeira análise OCR (42 correções - incompleta)
 
 ---
 

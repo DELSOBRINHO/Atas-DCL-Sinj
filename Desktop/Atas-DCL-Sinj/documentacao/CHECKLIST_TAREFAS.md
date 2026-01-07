@@ -6,7 +6,7 @@
 
 ## 🔄 FASE 2: CATALOGAÇÃO E LIMPEZA DE DADOS
 
-### ✅ CONCLUÍDAS (9/12)
+### ✅ CONCLUÍDAS (10/12)
 
 - [x] **Remover Duplicatas** - 10 duplicatas removidas
   - Sessões: 003, 008, 013, 051, 058, 068, 093, 84, 85, 86
@@ -37,6 +37,17 @@
   - Padrão de extração: DCL_YYYY-MM-NNNNNNNNNN.pdf → 01/MM/YYYY
   - Campo adicionado ao JSON: `data_publicacao_dcl`
   - Relatório v1.3 gerado com 111 atas
+  - Data: 2026-01-07
+
+- [x] **Corrigir Nomenclatura e Implementar Página Final Inteligente** - v1.4 gerada
+  - Campo renomeado: `data_publicacao_dcl` → `data_publicacao_ata`
+  - Coluna renomeada: "Data Publicação DCL" → "Data Publicação Ata"
+  - Lógica inteligente de página final:
+    - Prioridade 1: Fim confirmado da sessão
+    - Prioridade 2: Encontro de uma nova ata
+    - Prioridade 3: Final do DCL (último recurso)
+  - Redução de páginas desnecessárias no final dos DCLs
+  - Relatório v1.4 gerado com 111 atas
   - Data: 2026-01-07
 
 - [x] **Corrigir Páginas Finais (Lote 1)** - 6 atas corrigidas
@@ -146,11 +157,11 @@
 | Fase | Status | Progresso | Tarefas |
 |------|--------|-----------|---------|
 | 1 | ✅ Concluída | 100% | 4/4 |
-| 2 | 🔄 Em Progresso | 75% | 9/12 |
+| 2 | 🔄 Em Progresso | 83% | 10/12 |
 | 3 | ⏳ Pendente | 0% | 0/3 |
 | 4 | ⏳ Pendente | 0% | 0/3 |
 | 5 | ⏳ Pendente | 0% | 0/3 |
-| **TOTAL** | **🔄 Em Progresso** | **36%** | **13/25** |
+| **TOTAL** | **🔄 Em Progresso** | **40%** | **14/25** |
 
 ---
 

@@ -77,16 +77,16 @@ Desktop/Atas-DCL-Sinj/
 - Total de atas: 109 (adicionada ata 001)
 - Ata 001: 01/02/2007 - Pág 10-22 - DCL_2007-03-044.pdf
 
-### v1.3 - 2026-01-07 (ATUAL) ✅
-**Arquivo:** `documentacao/relatorios_conferencia/v1.3_2026-01-07.xlsx`
+### v1.4 - 2026-01-07 (ATUAL) ✅
+**Arquivo:** `documentacao/relatorios_conferencia/v1.4_2026-01-07.xlsx`
 
 **Colunas:**
 1. Sessão
 2. Tipo
 3. Data Real
-4. **Data Publicação DCL** (novo)
+4. **Data Publicação Ata** (corrigido)
 5. Pág Início
-6. Pág Fim
+6. Pág Fim (inteligente)
 7. DCL Original
 8. Nomenclatura
 9. Validado
@@ -95,21 +95,20 @@ Desktop/Atas-DCL-Sinj/
 
 **Características:**
 - Total de atas: 111 (87 ordinárias + 22 extraordinárias)
-- Nova coluna: Data Publicação DCL (extraída do nome do arquivo)
+- Campo renomeado: `data_publicacao_dcl` → `data_publicacao_ata`
+- Lógica inteligente de página final implementada
 - Padrão: DCL_YYYY-MM-NNNNNNNNNN.pdf → 01/MM/YYYY
-- Campo `data_publicacao_dcl` adicionado ao JSON
 - Pronto para conferência manual
 - Colunas vazias para preenchimento
 
-### v1.4 - 2026-01-27 (PLANEJADO)
+### v1.5 - 2026-01-27 (PLANEJADO)
 - Conferência manual completa
 - Todas as atas validadas
 - Observações registradas
 - Atas faltantes adicionadas
-- Páginas finais corrigidas
 - ~120+ atas
 
-### v1.5 - 2026-02-03 (PLANEJADO)
+### v1.6 - 2026-02-03 (PLANEJADO)
 - Todas as 143+ atas
 - Validação completa
 - Pronto para Fase 3
@@ -153,14 +152,15 @@ Desktop/Atas-DCL-Sinj/
 | Métrica | Valor |
 |---------|-------|
 | Arquivos de Documentação | 5 |
-| Relatórios Versionados | 4 (1 planejado) |
+| Relatórios Versionados | 5 (1 planejado) |
 | Total de Atas | 111 |
 | Atas Ordinárias | 87 |
 | Atas Extraordinárias | 22 |
 | Atas Faltando | 32 |
-| Progresso Fase 2 | 67% |
-| Tarefas Concluídas | 13/25 (52%) |
-| Campos Adicionados | data_publicacao_dcl |
+| Progresso Fase 2 | 83% |
+| Tarefas Concluídas | 14/25 (56%) |
+| Campos Adicionados | data_publicacao_ata |
+| Lógica Implementada | Página final inteligente |
 
 ---
 

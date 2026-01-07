@@ -6,7 +6,33 @@
 
 ## 📋 HISTÓRICO DE VERSÕES
 
-### v1.3 - 2026-01-07 (ATUAL) ✅
+### v1.4 - 2026-01-07 (ATUAL) ✅
+**Data de Criação:** 2026-01-07
+**Arquivo:** `v1.4_2026-01-07.xlsx`
+**Status:** ✅ Disponível
+
+#### Características
+- Total de atas: 111 (87 ordinárias + 22 extraordinárias)
+- Colunas: Sessão, Tipo, Data Real, **Data Publicação Ata**, Pág Início, Pág Fim, DCL Original, Nomenclatura, Validado, Observação, Ações
+- Lógica inteligente de página final implementada
+
+#### Mudanças
+- ✅ Campo renomeado: `data_publicacao_dcl` → `data_publicacao_ata`
+- ✅ Coluna renomeada: "Data Publicação DCL" → "Data Publicação Ata"
+- ✅ Lógica inteligente de página final:
+  - Prioridade 1: Fim confirmado da sessão
+  - Prioridade 2: Encontro de uma nova ata
+  - Prioridade 3: Final do DCL (último recurso)
+- ✅ Redução de páginas desnecessárias no final dos DCLs
+
+#### Benefícios
+- Nomenclatura mais precisa (ata vs dcl)
+- Páginas finais mais precisas
+- Melhor representação do conteúdo real de cada ata
+
+---
+
+### v1.3 - 2026-01-07 ✅
 **Data de Criação:** 2026-01-07
 **Arquivo:** `v1.3_2026-01-07.xlsx`
 **Status:** ✅ Disponível

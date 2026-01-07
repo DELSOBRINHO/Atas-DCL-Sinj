@@ -6,10 +6,30 @@
 
 ## 📋 HISTÓRICO DE VERSÕES
 
-### v1.7 - 2026-01-07 (ATUAL) ✅
+### v1.8 - 2026-01-07 (ATUAL) ✅
 **Data de Criação:** 2026-01-07
-**Arquivo:** `v1.7_2026-01-07.xlsx`
+**Arquivo:** `v1.8_2026-01-07.xlsx`
 **Status:** ✅ Disponível
+
+#### Características
+- Total de atas: 111 (87 ordinárias + 24 extraordinárias)
+- Colunas: Sessão, Tipo, Data Real, Data Publicação Ata, Pág Início, Pág Fim, DCL Original, Nomenclatura, Validado, Observação, Ações
+- **Ordenação: por número de sessão (numérico)**
+
+#### Mudanças
+- ✅ **Correção da nomenclatura das sessões 018 e 019 EXTRAORDINÁRIAS**
+  - 018: `2007-09-18-0-XX-018-2-AC.pdf` → `2007-09-18-2-SE-018-2-AC.pdf`
+  - 019: `2007-09-19-0-XX-019-2-AC.pdf` → `2007-09-19-2-SE-019-2-AC.pdf`
+- ✅ **Correção do tipo_sessao** de `EXTRAORDINARIA` para `EXTRAORDINÁRIA` (com acento)
+- ✅ **Ordenação por número de sessão** (antes era por tipo + sessão)
+
+---
+
+### v1.7 - 2026-01-07 ✅
+**Arquivo:** `v1.7_2026-01-07.xlsx`
+**Mudanças:** Correção da data de publicação (extração do cabeçalho real do DCL)
+
+---
 
 #### Características
 - Total de atas: 111 (87 ordinárias + 22 extraordinárias)
